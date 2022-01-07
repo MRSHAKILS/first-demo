@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+}
+
+.first-heading{
+    color: blueviolet;
+}
+
+.first-div{
+    
+    padding-left: 35px;
+    font-size: 45px;
+    width: 50%;
+}
+.container div img{
+    width: 500px;
+    height: auto;
+    padding-left: 100px;
+    margin-top: -50px;
+} 
+.container{
+    display: flex;
+    margin: 100px 10px 0 190px;
+}
+.first-div h1{
+    border-left: 5px solid tomato;
+    padding-left: 20px;
+}
+.btn-1{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(37, 170, 126);
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px;
+}
+.container-2{
+    display: flex; 
+    justify-content: space-evenly;
+}
+.container-2 img{
+    width: 100px;
+    height: auto;
+}
+.box-div{
+    width: 450px;
+    height: 380px;
+    background-color: antiquewhite;
+    border-radius: 15px; 
+    padding-left: 15px; 
+
+} 
+.div-2{
+   background-color: rgb(230, 177, 108);
+}
+.div-3{
+    background-color: rgb(143, 228, 223);
+ } 
+ .container-2 h1 {
+     font-size: 55px;
+ }
+ .extra{
+    text-align: center;
+    font-size: 65px;
+ }
+ .container-3{
+     display: flex;
+     padding-left: 150px;
+
+ }
+ .container-3 img{
+     width: 400px;
+     height: auto;
+ } 
+ .container-3 div p{
+     font-size: 29px;
+ }
+ .container-3 h1 {
+     font-size: 55px;
+ } 
+ .cont-3{
+    width: 1000px;
+   padding-left: 90px;
+   padding-right: 200px;
+ }
+ .btn-2{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(37, 170, 126);
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px;
+}
+.container-4{
+    display: flex;
+    padding-right: 150px;
+
+}
+.cont-4{
+    padding-left: 150px;
+    padding-right: 200px;
+  }
+  .container-4 img{
+    width: 400px;
+    height: auto;
+    
+} 
+.container-4 div p{
+    font-size: 29px;
+    
+}
+.container-4 h1 {
+    font-size: 55px;
+} 
+.bonus-heading{
+    text-align: center;
+    font-size: 55px;
+} 
+.bonus-img{
+    border-radius: 17px;
+   
+}
+footer{
+    text-align: center; 
+    background-color: rgb(15, 15, 15);
+    color: white;
+
+}
+footer h1{
+    font-size: 45px;
+    font-weight: 700;
+} 
+footer h3 {
+    font-size: 30px;
+} 
+.footer-color{
+    color: rgb(156, 197, 21);
+}
